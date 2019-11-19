@@ -1,1 +1,3 @@
 # frouge
+
+composer install
