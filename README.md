@@ -1,9 +1,13 @@
 # frouge
 
-composer install
+## Install vendors
+<code>composer install</code>
 
-php bin/console doctrine:database:create
+## Create database
+<code>php bin/console d:d:c</code>
 
-php bin/console d:f:l 
+## Load fixtures
+<code>php bin/console d:f:l</code>
+ 
 
-run the serv and go to /squares root
+run the server and go to /squares root
